@@ -3,4 +3,6 @@ pnpm-lock.yaml
 .idea
 .DS_Store
 .hintrc
-.gitpod.yml 
+.gitpod.yml
+__pycache__/
+*.pyc
